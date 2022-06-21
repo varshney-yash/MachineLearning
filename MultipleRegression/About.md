@@ -1,4 +1,4 @@
-#Using Multiple Linear Regression to predict profitability of startups. Analysing predictions using RMSE.
+# Using Multiple Linear Regression to predict profitability of startups. Analysing predictions using RMSE.
 
 Multiple regression is like linear regression, but with more than one independent value, meaning that we try to predict a value based on two or more variables.
 
