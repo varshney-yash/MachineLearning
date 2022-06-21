@@ -5,3 +5,5 @@ Multiple regression is like linear regression, but with more than one independen
 Root Mean Square Error (RMSE) is a standard way to measure the error of a model in predicting quantitative data. 
 
 ![RMSE FORMULA](https://user-images.githubusercontent.com/107148830/174873506-adc76e38-e7b7-418f-b353-5b1c69244684.png)
+
+![FORMULA](https://user-images.githubusercontent.com/107148830/174873650-cc69a46f-ff59-4e33-b9b3-9d79411735bf.png)
